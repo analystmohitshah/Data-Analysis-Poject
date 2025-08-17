@@ -1,6 +1,6 @@
 # Sales Performance Analysis
 Portfolio Project
-## Sales & Profit Analysis Capstone Project
+## Sales & Profit Analysis Project
 
 ## Overview
 
