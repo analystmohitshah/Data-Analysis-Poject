@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Sales Performance Analysis
 Portfolio Project
 ## Sales & Profit Analysis Capstone Project
 
