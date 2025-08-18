@@ -50,15 +50,11 @@ This project demonstrates my ability to prepare, model, and analyze business dat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/analystmohitshah/Data-Analysis-Poject.git
+   git clone https://github.com/analystmohitshah/sales-performance-analysis.git
    ```
 
-2. **Set up the SQL database**
-   - Use the scripts in `datasets/` to create and populate your sales tables in your preferred SQL database.
-
-3. **Configure Power BI**
-   - Open the provided `.pbix` files in Power BI Desktop.
-   - Update data source settings to connect to your SQL server.
+2. **Configure Power BI**
+   - Open the provided `https://app.powerbi.com/groups/dd0bd23d-0194-49ef-9ce3-5b62031a7bbf/reports/45fea009-d1f9-4df8-b60d-2811ed8d1da0/70fd656c7e2cedbe4574?experience=power-bi' in Power Services.
    - Refresh the dataset to load your data.
 
 ## Contributing
