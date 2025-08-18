@@ -70,8 +70,8 @@ df
 
 ---
 ## 📂 Project Structure
-- [datasets](path/to/datasets) – sample sales data
-- [assets](path/to/assets) – Screenshots of sales & profit dashboards and visuals
+- [datasets](datasets/) – sample sales data
+- [assets](assets/) – Screenshots of sales & profit dashboards and visuals
 
 ## Contributing
 
