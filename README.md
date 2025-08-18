@@ -71,10 +71,9 @@ df
 ---
 ## 📂 Project Structure
 
-- `datasets/` – SQL scripts and sample sales data exports
-- `reports/` – Power BI (.pbix) files for sales dashboards
+- ` datasets ` – sample sales data exports
 - `docs/` – Step-by-step guides and documentation
-- `images/` – Screenshots of sales dashboards and visuals
+- `asssets/` – Screenshots of sales dashboards and visuals
 
 ## Getting Started
 
@@ -83,10 +82,6 @@ df
    git clone https://github.com/analystmohitshah/sales-performance-analysis.git
 
    ```
-
-2. **Open the interatcitve Power BI Report**
-   - https://app.powerbi.com/view?r=eyJrIjoiNjIwOGNlYWQtNjI2ZC00YmVjLTg0N2YtYjEwY2MyYjI1MzQzIiwidCI6IjEwYmZkOTkwLTFlNTItNGRiMC05ODQyLTEyMWRlMjBhOWU3NCJ9
-   - 
    - Refresh the dataset to load your data.
 
 ## Contributing
