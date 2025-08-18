@@ -1,33 +1,48 @@
-# Sales Performance Analysis
-Portfolio Project
-## Sales & Profit Analysis Project
+# 📊 Sales Performance Analysis  
+**Portfolio Project – Sales & Profit Analysis**
 
-## Overview
+## 📌 Overview
+This project demonstrates my ability to **prepare, model, and analyze business data** using **Power BI, DAX, Excel, SQL, and Python**.  
+It showcases how raw sales data can be transformed into **actionable insights and executive dashboards** that support strategic business decisions.  
 
-This project demonstrates my ability to prepare, model, and analyze business data using Power BI, DAX, Excel, SQL and Python. It showcases how raw sales data can be transformed into actionable insights and executive dashboards that support strategic business decisions.
+---
 
-## Key Skills Demonstrated
+## 🛠️ Key Skills Demonstrated
+- **Data Preparation & Transformation:** Revenue, profit, and tax calculations using DAX  
+- **Data Modeling:** Power BI relationships, Calendar table, currency conversion  
+- **DAX & Analytics:** Measures for Yearly/Quarterly/YTD Profit, Median Sales, Profit Margin  
+- **Visualization & Reporting:** Dashboards with bar, column, pie, line, area charts, KPIs, slicers  
+- **Executive Dashboarding:** Alerts, subscriptions, and mobile-friendly dashboards  
+- **Python Integration:** Pandas for external currency data and transformations  
 
-- **Data Preparation & Transformation:** DAX formulas for revenue, profit, and tax calculations
-- **Data Modeling:** Power BI relationships, Calendar tables, currency conversion tables
-- **DAX & Analytics:** Measures for Yearly, Quarterly, and YTD Profit; Median Sales; Profit Margin calculations
-- **Visualization & Reporting:** Sales and Profit dashboards using bar, column, pie, line, area charts, KPIs, and slicers
-- **Executive Dashboarding:** Consolidated dashboards with alerts and subscriptions for key metrics
-- **Python Integration:** Pandas for external currency data and advanced transformations
+---
 
-## Project Highlights
+## 🌟 Project Highlights
+- Built a **Power BI data model** linking Sales, Purchases, Countries, and Exchange data  
+- Created **interactive Sales & Profit dashboards** with slicers and KPIs  
+- Designed an **Executive Dashboard** with alerts and subscriptions  
+- **Key insights identified:**  
+  - 🏆 Highest Net Revenue Product: *Modular Sofa Set – $928.36 USD*  
+  - 👩‍💼 Top Sales Rep: *Alice – highest transactions*  
+  - 📉 Lowest Net Revenue: *Floral Wallpaper – $9.6*  
 
-- Calculated profit, net revenue, and gross revenue across multiple products and transactions
-- Built a Power BI data model linking Sales, Purchases, Countries, and Exchange data
-- Created interactive Sales and Profit dashboards with dynamic filtering and slicers
-- Developed executive dashboard with KPIs, mobile view, and automated alerts/subscriptions
-- Identified key business insights:
-  - **Highest Net Revenue Product:** Modular Sofa Set – $928.36 USD
-  - **Top Sales Rep:** Alice – highest number of transactions
-  - **Lowest Net Revenue:** Floral Wallpaper – $9.6
+---
+
+## 🐍 Python Integration (Currency Exchange Example)
+```python
+import pandas as pd
+from io import StringIO
+
+data = """Exchange ID;ExchangeRate;Exchange Currency
+1;1;USD
+2;0.75;GBP
+3;0.85;EUR
+4;3.67;AED
+5;1.3;AUD"""
+df = pd.read_csv(StringIO(data), sep=';')
+df
 
 ## Tools & Technologies
-
 - **Power BI:** Data modeling, DAX, visualization, dashboards
 - **Excel:** Data cleaning, revenue and profit calculations
 - **Python (pandas):** Data import and transformation
@@ -53,8 +68,9 @@ This project demonstrates my ability to prepare, model, and analyze business dat
    git clone https://github.com/analystmohitshah/sales-performance-analysis.git
    ```
 
-2. **Power BI Service**
-   - [Open the interractive Power BI Report] (https://app.powerbi.com/groups/dd0bd23d-0194-49ef-9ce3-5b62031a7bbf/reports/45fea009-d1f9-4df8-b60d-2811ed8d1da0/70fd656c7e2cedbe4574?experience=power-bi) in Power Web Services).
+2. **Open the interatcitve Power BI Report**
+   - https://app.powerbi.com/view?r=eyJrIjoiNjIwOGNlYWQtNjI2ZC00YmVjLTg0N2YtYjEwY2MyYjI1MzQzIiwidCI6IjEwYmZkOTkwLTFlNTItNGRiMC05ODQyLTEyMWRlMjBhOWU3NCJ9
+   - 
    - Refresh the dataset to load your data.
 
 ## Contributing
