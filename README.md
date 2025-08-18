@@ -40,7 +40,7 @@ data = """Exchange ID;ExchangeRate;Exchange Currency
 4;3.67;AED
 5;1.3;AUD"""
 df = pd.read_csv(StringIO(data), sep=';')
-df
+df```
 
 ---
 
