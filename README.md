@@ -42,18 +42,21 @@ data = """Exchange ID;ExchangeRate;Exchange Currency
 df = pd.read_csv(StringIO(data), sep=';')
 df
 
+---
+
 ## Tools & Technologies
 - **Power BI:** Data modeling, DAX, visualization, dashboards
 - **Excel:** Data cleaning, revenue and profit calculations
 - **Python (pandas):** Data import and transformation
 - **DAX:** Advanced measures and KPI calculations
 
+---
 ## Outcome & Impact
 
 - Delivered actionable insights to track sales, profitability, and customer loyalty
 - Enabled executive-level monitoring via dashboards with alerts and subscriptions
 - Showcased end-to-end data analysis workflow: data prep → modeling → visualization → executive reporting
-
+--
 ## Project Structure
 
 - `datasets/` – SQL scripts and sample sales data exports
