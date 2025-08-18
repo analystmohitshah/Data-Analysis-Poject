@@ -70,16 +70,14 @@ df
 
 ---
 ## 📂 Project Structure
-
-- ` datasets ` – sample sales data exports
-- `docs/` – Step-by-step guides and documentation
-- `asssets/` – Screenshots of sales dashboards and visuals
+- [` datasets `] – sample sales data exports
+- [`asssets/`] – Screenshots of sales dashboards and visuals
 
 ## Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/analystmohitshah/sales-performance-analysis.git
+  [ git clone https://github.com/analystmohitshah/sales-performance-analysis.git](https://github.com/analystmohitshah/sales-performance-analysis)
 
    ```
    - Refresh the dataset to load your data.
