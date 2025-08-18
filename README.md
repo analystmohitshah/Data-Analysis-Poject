@@ -6,7 +6,7 @@ This project demonstrates my ability to **prepare, model, and analyze business d
 It showcases how raw sales data can be transformed into **actionable insights and executive dashboards** that support strategic business decisions.  
 
 ### 🔥 Power BI Live Demo
-  ##[View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMGVmODg0ZDMtM2ZlNy00ZTE3LTlmZTctMjExNmE2ZWI1NGYyIiwidCI6IjEwYmZkOTkwLTFlNTItNGRiMC05ODQyLTEyMWRlMjBhOWU3NCJ9)
+[View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMGVmODg0ZDMtM2ZlNy00ZTE3LTlmZTctMjExNmE2ZWI1NGYyIiwidCI6IjEwYmZkOTkwLTFlNTItNGRiMC05ODQyLTEyMWRlMjBhOWU3NCJ9)
 ---
 
 ### 🖼️ Executive Dashboard - Mobile Layout Preview
