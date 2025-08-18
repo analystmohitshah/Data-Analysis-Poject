@@ -54,7 +54,7 @@ This project demonstrates my ability to prepare, model, and analyze business dat
    ```
 
 2. **Power BI Service**
-   - Open the interractive Power BI Report (https://app.powerbi.com/groups/dd0bd23d-0194-49ef-9ce3-5b62031a7bbf/reports/45fea009-d1f9-4df8-b60d-2811ed8d1da0/70fd656c7e2cedbe4574?experience=power-bi' in Power Services).
+   - [Open the interractive Power BI Report] (https://app.powerbi.com/groups/dd0bd23d-0194-49ef-9ce3-5b62031a7bbf/reports/45fea009-d1f9-4df8-b60d-2811ed8d1da0/70fd656c7e2cedbe4574?experience=power-bi' in Power Services).
    - Refresh the dataset to load your data.
 
 ## Contributing
