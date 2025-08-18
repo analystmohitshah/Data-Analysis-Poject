@@ -10,7 +10,7 @@ It showcases how raw sales data can be transformed into **actionable insights an
 ---
 
 ## 🖼️ Dashboard Preview
-![MobileLayoutDashboard](https://github.com/user-attachments/assets/a4b08c86-d6c4-47d6-be73-40ac2e60c3d0)
+[Mobiel View - Executive Dashboard]![MobileLayoutDashboard](https://github.com/user-attachments/assets/a4b08c86-d6c4-47d6-be73-40ac2e60c3d0)
 ![SalesOverview](https://github.com/user-attachments/assets/b1b13bbe-648e-4b05-a99c-141d1046e441)
 ![ProfitOverview](https://github.com/user-attachments/assets/16326581-068b-4d08-a022-021bd6924ece)
 
