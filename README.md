@@ -77,10 +77,6 @@ df
 
 Contributions are welcome! Please submit issues or pull requests to add new features, improve documentation, or update datasets.
 
-## License
-
-[Specify license here]
-
 ## Contact
 
 👤 Maintainer: [analystmohitshah](https://github.com/analystmohitshah)
