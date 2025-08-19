@@ -83,4 +83,5 @@ Contributions are welcome! Please submit issues or pull requests to add new feat
 
 ## Contact
 
-Maintainer: [analystmohitshah](https://github.com/analystmohitshah)
+👤 Maintainer: [analystmohitshah](https://github.com/analystmohitshah)
+🔗 https://www.linkedin.com/in/analystmohitshah/
