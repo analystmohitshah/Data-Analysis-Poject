@@ -9,11 +9,11 @@ It showcases how raw sales data can be transformed into **actionable insights an
 [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMGVmODg0ZDMtM2ZlNy00ZTE3LTlmZTctMjExNmE2ZWI1NGYyIiwidCI6IjEwYmZkOTkwLTFlNTItNGRiMC05ODQyLTEyMWRlMjBhOWU3NCJ9)
 ---
 
-### 🖼️ Executive Dashboard - Mobile Layout Preview
+### Executive Dashboard - Mobile Layout Preview
 ![MobileLayoutDashboard](https://github.com/user-attachments/assets/a4b08c86-d6c4-47d6-be73-40ac2e60c3d0)
-### 🖼️ Sales Ovierview
+### Sales Ovierview
 ![SalesOverview](https://github.com/user-attachments/assets/b1b13bbe-648e-4b05-a99c-141d1046e441)
-### 🖼️ Profit Ovierview
+### Profit Ovierview
 ![ProfitOverview](https://github.com/user-attachments/assets/16326581-068b-4d08-a022-021bd6924ece)
 
 ---
@@ -70,7 +70,7 @@ df
 
 ---
 ## 📂 Project Structure
-- [datasets](datasets/) – sample sales data
+- [datasets](datasets/) – Sales data
 - [assets](assets/) – Screenshots of sales & profit dashboards and visuals
 
 ## Contributing
@@ -79,5 +79,5 @@ Contributions are welcome! Please submit issues or pull requests to add new feat
 
 ## Contact
 
-👤 Maintainer: [analystmohitshah](https://github.com/analystmohitshah)
-🔗 https://www.linkedin.com/in/analystmohitshah/
+👤 Owner: [Github](https://github.com/analystmohitshah)
+🔗 [LinkedIn](https://www.linkedin.com/in/analystmohitshah/)
